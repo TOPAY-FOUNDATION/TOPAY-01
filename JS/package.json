@@ -1,6 +1,6 @@
 {
   "name": "topay-01",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A lightweight, high-security cryptographic library optimized for mobile processors with quantum-resistant algorithms",
   "main": "dist/TOPAY-01.js",
   "types": "types/index.d.ts",

@@ -18,7 +18,7 @@ npm install topay-01
 Or add it directly to your project:
 
 ```bash
-npm install https://github.com/MdShahriya/TOPAY-01.git
+npm install https://github.com/TOPAY-FOUNDATION/TOPAY-01.git/JS
 ```
 
 ## Usage
